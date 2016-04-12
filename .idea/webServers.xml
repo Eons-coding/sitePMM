@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="4855db7e-a0ff-4335-a07a-660085bb591e" name="EPHEC_TI" url="http://193.190.65.94/he201001">
+        <fileTransfer host="193.190.65.94" port="21" accessType="FTPS" password="dfebdfd0dfcfdfd8dfdedfd3df98df9adf9bdf9c" username="HE201001">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
